@@ -1,3 +1,3 @@
 # SMA_LABS
 
-Switch to master branch
+Use only for Study Purpose
